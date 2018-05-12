@@ -1,0 +1,29 @@
+_repo: Fossil-Ice-CrystalsAn-Instance-of-the-Practical-Value-of--Pure-Science-_33760
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Udden, Johan August
+    alias: Udden, J. A. (Johan August)
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '36589'
+    url: http://www.gutenberg.org/2009/agents/36589
+description: ''
+gutenberg_issued: '2010-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33760'
+  lccn: '19027126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fossils'
+- !lcsh 'Ice'
+- !lcc 'GB'
+title: 'Fossil Ice Crystals: An Instance of the Practical Value of "Pure Science"'
+url: http://www.gutenberg.org/ebooks/33760
